@@ -9,4 +9,4 @@
 
 ## Установка WebPack
 Перед тем, как начать работать с WebPack, требуется установить следующее:
-1. Node 14.18.3(https://nodejs.org/download/release/v14.18.3/)
+1. [Node 14.18.3](https://nodejs.org/download/release/v14.18.3/)
