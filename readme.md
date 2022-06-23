@@ -17,4 +17,4 @@
 
 После установки необходимых компонентов, можно начинать клонирование WebPack с GitHub, для чего открываем Git Bash на своем ПК и вводим следующие команды:
 1. Клонируем репозиторий
-<git clone https://github.com/alex-karo/webpack-static-template block7 >
+ <git clone https://github.com/alex-karo/webpack-static-template block7 >
