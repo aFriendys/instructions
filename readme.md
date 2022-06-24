@@ -18,7 +18,7 @@
   4.2 Пушим исходники на GitHub
   4.3 Пушим product-сборку на GitHub
 
-## [Установка WebPack](#id1)
+## <a name="id1">Установка WebPack</a> 
 Перед тем, как начать работать с WebPack, требуется установить следующие компоненты:
 1. [Node 14.18.3](https://nodejs.org/download/release/v14.18.3/)
 2. [NVM/MacOC](https://tecadmin.net/install-nvm-macos-with-homebrew/)
