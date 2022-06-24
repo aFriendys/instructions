@@ -1,7 +1,7 @@
 # Краткая инструкция по блоку 1.6
 
 Содержание:
-1. [Установка WebPack] [id1]  
+1. [Установка WebPack](id1)  
   1.1 Клонируем WebPack  
   1.2 Проверка версии Node и установка зависимостей  
   1.3 Запускаем проект
@@ -18,7 +18,7 @@
   4.2 Пушим исходники на GitHub
   4.3 Пушим product-сборку на GitHub
 
-## Установка WebPack[id1]
+## [Установка WebPack](#id1)
 Перед тем, как начать работать с WebPack, требуется установить следующие компоненты:
 1. [Node 14.18.3](https://nodejs.org/download/release/v14.18.3/)
 2. [NVM/MacOC](https://tecadmin.net/install-nvm-macos-with-homebrew/)
